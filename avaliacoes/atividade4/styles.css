@@ -45,7 +45,6 @@ header label {
 main {
   padding: 20;
   width: 75%;
-  height: 100%;
   border: 50cm;
   float: right;
   text-align: justify;
@@ -64,4 +63,8 @@ footer p {
 footer a {
   color: fff;
   text-decoration: none;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
 }
