@@ -29,16 +29,20 @@ body {
 .nav li a:hover {
   background-color: black;
   color: white;
+
 }
 header {
   background-color: #000;
   width: 100%;
   height: 10%;
+  padding: 15 52%;
 }
 header label {
-  padding: 20 55%;
   color: white;
+  font-size: 45;
+
 }
+
 main {
   padding: 20;
   width: 75%;
