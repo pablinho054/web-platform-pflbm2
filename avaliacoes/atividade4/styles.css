@@ -85,3 +85,16 @@ img {
   border-radius: 5px;
   margin-bottom: 0 15px 15px 0;
 }
+.cont{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  
+}
+
+iframe {
+  border: 0;
+  height: 15cm;
+}
+
