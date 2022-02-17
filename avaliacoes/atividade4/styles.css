@@ -89,7 +89,9 @@ img {
 
 iframe {
   border: 0;
-  height: 15cm;
+  height: 30cm;
+  width: 45%;
+  margin-bottom: 0 15px 15px 0;
   
 }
 
